@@ -1,2 +1,2 @@
-# ibm-cognos-powerbi-practical-record
-Practical record for IBM Cognos Analytics and Power BI assignments.
+# Business Analytics and IBM Cognos Power BI Practical Record
+Business analytics & practical record for IBM Cognos Analytics and Power BI.
